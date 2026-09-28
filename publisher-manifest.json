@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e30f64cf91d50f2460b0c6af",
+  "owner": "hhhgjpduk",
+  "repo": "page-fcbf17acb3869c9ec37dad15",
+  "title": "青云梯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fcbf17acb3869c9ec37dad15",
+      "a": "青云梯",
+      "b": "",
+      "entity": "青云梯",
+      "brand": "青云梯",
+      "separator": "",
+      "path": "index.html",
+      "hash": "03fb7d22817de16799e2d3b6c2b1f771eaed78773c7894963328c96c2a385e53",
+      "content": {
+        "keyword1": "青云梯",
+        "keyword2": "",
+        "primary_entity": "青云梯",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "青云梯提供稳定、安全的VPN加速服务。便捷的客户端下载和机场订阅，助您畅享全球网络。",
+          "AI_DESCRIPTION": "青云梯提供稳定、安全的VPN加速服务。便捷的客户端下载和机场订阅，助您畅享全球网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --primary: #2E8B57;\n            --light: #f8f5f0;\n        }\n        * { box-sizing: border-box; }\n        body {\n            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            margin: 0;\n            background: var(--light);\n            color: #333;\n            line-height: 1.7;\n        }\n        header {\n            background: #fff;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        .nav {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 1rem;\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: var(--primary);\n            text-decoration: none;\n        }\n        .nav a {\n            margin-left: 2rem;\n            color: #555;\n            text-decoration: none;\n            font-weight: 500;\n        }\n        .nav a:hover {\n            color: var(--primary);\n        }\n        .hero {\n            background: linear-gradient(to right, #2E8B57, #3cb371);\n            color: #fff;\n            padding: 4rem 0;\n            text-align: center;\n        }\n        .hero-content {\n            max-width: 800px;\n            margin: 0 auto;\n        }\n        .hero h1 {\n            font-size: 2.5rem;\n            margin-bottom: 1rem;\n        }\n        .hero p {\n            font-size: 1.2rem;\n            margin-bottom: 2rem;\n        }\n        .btn {\n            display: inline-block;\n            padding: 0.8rem 1.5rem;\n            background: #fff;\n            color: var(--primary);\n            text-decoration: none;\n            border-radius: 4px;\n            font-weight: bold;\n            margin: 0 0.5rem;\n        }\n        .btn:hover {\n            background: var(--light);\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 2rem;\n        }\n        section {\n            margin-bottom: 4rem;\n        }\n        h2 {\n            color: var(--primary);\n            font-size: 2rem;\n            margin-bottom: 1.5rem;\n            border-bottom: 2px solid #eee;\n            padding-bottom: 0.5rem;\n        }\n        h3 {\n            color: #444;\n            font-size: 1.5rem;\n            margin-bottom: 1rem;\n        }\n        .intro, .scenarios, .howto {\n            font-size: 1.1rem;\n        }\n        .intro p, .scenarios p {\n            margin-bottom: 1rem;\n        }\n        .columns {\n            display: flex;\n            gap: 2rem;\n        }\n        .column {\n            flex: 1;\n        }\n        .plans {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 1.5rem;\n        }\n        .plan-card {\n            background: #fff;\n            border: 1px solid #ddd;\n            border-radius: 8px;\n            padding: 1.5rem;\n            box-shadow: 0 4px 6px rgba(0,0,0,0.05);\n        }\n        .plan-card h3 {\n            color: var(--primary);\n        }\n        details {\n            background: #fff;\n            margin-bottom: 1rem;\n            border-radius: 6px;\n            overflow: hidden;\n            box-shadow: 0 2px 4px rgba(0,0,0,0.05);\n        }\n        summary {\n            padding: 1rem;\n            font-weight: bold;\n            cursor: pointer;\n            list-style: none;\n        }\n        summary::marker { content: '+ '; }\n        details[open] summary::marker { content: '- '; }\n        .faq-content {\n            padding: 0 1rem 1rem;\n            color: #555;\n        }\n        .clients {\n            display: flex;\n            gap: 2rem;\n            overflow-x: auto;\n            padding: 1rem 0;\n        }\n        .client {\n            min-width: 200px;\n            text-align: center;\n        }\n        .client p {\n            font-style: italic;\n            margin: 0.5rem 0;\n        }\n        footer {\n            background: #2c3e2f;\n            color: #ddd;\n            padding: 2rem 0;\n            text-align: center;\n        }\n        .footer-content {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 1rem;\n        }\n        @media (max-width: 768px) {\n            .nav { flex-direction: column; gap: 1rem; }\n            .nav a { margin-left: 0; }\n            .hero h1 { font-size: 2rem; }\n            main { padding: 1.5rem; }\n        }\n    </style>\n\n\n    <header>\n        <nav class=\"nav\">\n            <a href=\"#\" class=\"logo\">青云梯</a>\n            <div>\n                <a href=\"#intro\">关于</a>\n                <a href=\"#scenarios\">场景</a>\n                <a href=\"#howto\">如何</a>\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#clients\">客户</a>\n                <a href=\"#faq\">FAQ</a>\n            </div>\n        </nav>\n    </header>\n    <section class=\"hero\">\n        <div class=\"hero-content\">\n            <h1>青云梯</h1>\n            <p>安全稳定的VPN加速器<br>全球机场订阅 便捷客户端下载</p>\n            <a href=\"#plans\" class=\"btn\">查看套餐</a>\n        </div>\n    </section>\n    <main>\n        <section id=\"intro\">\n            <h2>品牌简介</h2>\n            <div class=\"intro\">\n                <p>青云梯致力于提供优质的VPN加速服务，助力用户突破网络限制，畅享安全高速的互联网体验。</p>\n                <p>我们采用先进加密技术，确保您的连接安全可靠。无论是日常办公、娱乐浏览还是跨境访问，都能得到稳定支持。</p>\n            </div>\n        </section>\n        <section id=\"scenarios\">\n            <h2>使用场景</h2>\n            <div class=\"scenarios\">\n                <p>青云梯适用于多种场景，包括：</p>\n                <ul>\n                    <li>远程办公与团队协作</li>\n                    <li>国际旅行时的网络访问</li>\n                    <li>内容创作者的海外资源获取</li>\n                    <li>学生群体的学术交流</li>\n                    <li>企业内部网络优化</li>\n                </ul>\n            </div>\n        </section>\n        <section id=\"howto\">\n            <h2>操作指南</h2>\n            <div class=\"howto\">\n                <h3>1. 选择套餐</h3>\n                <p>根据您的需求选择适合的套餐方案。</p>\n                <h3>2. 下载客户端</h3>\n                <p>访问官网下载适用于您的设备和操作系统的客户端软件。</p>\n                <h3>3. 订阅与激活</h3>\n                <p>完成支付后，立即激活账号并获取凭证。</p>\n                <h3>4. 连接服务器</h3>\n                <p>在客户端中选择合适的服务器节点，即可加速上网。</p>\n            </div>\n        </section>\n        <section id=\"plans\">\n            <h2>套餐对比</h2>\n            {{PLANS_HTML}}\n        </section>\n        <section id=\"clients\">\n            <h2>我们的客户</h2>\n            {{CLIENTS_HTML}}\n        </section>\n        <section id=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>什么是青云梯？</summary>\n                <div class=\"faq-content\">\n                    <p>青云梯是一款专业的VPN加速器，提供安全稳定的网络加速功能，帮助用户畅享全球优质资源。</p>\n                </div>\n            </details>\n            <details>\n                <summary>如何订阅青云梯？</summary>\n                <div class=\"faq-content\">\n                    <p>在官网选择套餐后完成支付，即可获得激活凭证并使用客户端连接。</p>\n                </div>\n            </details>\n            <details>\n                <summary>支持哪些设备和平台？</summary>\n                <div class=\"faq-content\">\n                    <p>青云梯支持Windows、macOS、iOS、Android等多种主流平台，并提供对应客户端。</p>\n                </div>\n            </details>\n            <details>\n                <summary>隐私与安全保障如何？</summary>\n                <div class=\"faq-content\">\n                    <p>我们采用AES-256加密技术，确保您的上网数据全程安全。</p>\n                </div>\n            </details>\n            <details>\n                <summary>如何下载客户端？</summary>\n                <div class=\"faq-content\">\n                    <p>访问青云梯官网，找到下载入口即可获取最新版本。</p>\n                </div>\n            </details>\n            <details>\n                <summary>售后服务支持吗？</summary>\n                <div class=\"faq-content\">\n                    <p>我们提供7*24小时在线客服和详细使用手册，随时为您解答问题。</p>\n                </div>\n            </details>\n        </section>\n    </main>\n    <footer>\n        <div class=\"footer-content\">\n            <p>© 2024 青云梯. 所有权利保留。</p>\n            <p>友情链接： <a href=\"#\">官方博客</a> | <a href=\"#\">合作伙伴</a></p>\n        </div>\n    </footer>\n\n",
+          "hash": "ddd2786eba43de7102fe9e0c98dcfb2a0876f7accb2ac528fef2631e7044483f",
+          "seo": {
+            "title": "青云梯 - VPN加速器，机场订阅与客户端下载",
+            "keywords": "青云梯,VPN加速器,机场订阅,客户端下载,VPN套餐,青云梯加速",
+            "description": "青云梯提供稳定、安全的VPN加速服务。便捷的客户端下载和机场订阅，助您畅享全球网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "crieewy.cn",
+    "host": "zh.crieewy.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "crieewy.cn",
+      "url": "https://crieewy.cn/",
+      "label": "白月光",
+      "apex": "crieewy.cn",
+      "kind": null,
+      "identity": "wdykarp/page-57685712c647c510f2c430b7"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d859a504813512dd2062bed0a04e8c28db239a5fcd35d95ab92586c2b0c7272b",
+    "sitemap.xml": "d0aee1f0d95346a1716ab2069b329f22adf22127b2e8e3d67e3c6375aa56942d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "801ce430702d9c4c3dbeb963db3c4cd98703bbdaa2af0257b08984317e0a837c",
+    "robots.txt": "76b74f5b5b8d0649b2b6445fa27c7e56f9bf9bb1106aed845149838baa7af7b3",
+    "fade97c730a9936181dea12ef6367d30.txt": "133c5fc20b262d1cc5312a8d8f1d676e8b776b0cbc984bb4ed6c2fa6541e0790"
+  },
+  "revision": "7db52664a0d635f8def58a6a53a22f171e560eeaf8bbca382d53ab4e2d2914a7"
+}
